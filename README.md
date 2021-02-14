@@ -1,4 +1,4 @@
-# Ryzentosh-for-B550M-Pro4
+# Ryzentosh for B550M Pro4
 ## 仕様
 | **構成** | **モデル** |
 | ------------- | --------- |
